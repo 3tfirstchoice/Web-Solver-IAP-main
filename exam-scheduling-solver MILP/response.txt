@@ -1,0 +1,7 @@
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100     54   0      0 100     54      0   9821                              0100     54   0      0 100     54      0   8077                              0100     54   0      0 100     54      0   6724                              0
+HTTP/1.1 400 Bad Request
+Connection: close
+
+curl: (3) URL rejected: Bad hostname

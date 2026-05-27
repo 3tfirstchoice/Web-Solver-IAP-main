@@ -1,0 +1,8 @@
+{
+  "name": "Exam Scheduler Solver",
+  "description": "Professional dashboard for optimizing exam invigilator assignments using MILP solver simulation and real-time metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
